@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">IntroSliderExample</string>
+	<string name="title_activity_welcome">홈 스크린</string>
+	<string name="next">다음</string>
+	<string name="skip">스킵</string>
+	<string name="start">알겠어요</string>
+
+	<string name="slide_1_title">Hello Food!</string>
+	<string name="slide_1_desc">여러분의 가장 좋아하는 식당에서 음식을 주문하는 최고로 쉬운 방법입니다!</string>
+
+	<string name="slide_2_title">영화 티켓</string>
+	<string name="slide_2_desc">여러분의 가족과 친구들에게 영화티켓을 선물해 보세요!</string>
+
+	<string name="slide_3_title">최대 할인</string>
+	<string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+	<string name="slide_4_title">세계여행</string>
+	<string name="slide_4_desc">어떤 교통편이던지 예약가능합니다. 전 세계를 여행해보세요!</string>
+
+	<string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+	<string name="play_again">다시보기</string>
+
+</resources>
